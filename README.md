@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Henrique Favaro 🖐️
 
-![Henrique Github Status](https://github-readme-stats.vercel.app/api/?username=MrRique15&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRique15&langs_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=495)
+![Henrique Github Status](https://github-readme-stats.vercel.app/api/?username=MrRique15&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRique15&count_private=true&langs_count=3&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=495)
 
 ## Minhas experiências
 <div style="display:inline_block"><br/>
