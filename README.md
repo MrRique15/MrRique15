@@ -3,7 +3,7 @@
 <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=MrRique15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRique15&count_private=true&layout=compact&langs_count=7&theme=react"/>
 </div>
-## Minhas experiências
+<b>Minhas experiências</b>
 <div style="display:inline_block"><br/>
 
 <img align="center" alt="html5" href="https://discord.gg/8kdGq2mxsg" src="https://img.shields.io/badge/mongodb-154e11?style=for-the-badge&logo=mongodb&logoColor=whitegreen">
