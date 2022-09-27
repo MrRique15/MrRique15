@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Henrique Favaro 🖐️
 
-![Henrique Github Status](https://github-readme-stats.vercel.app/api/?username=MrRique15&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
+<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=MrRique15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRique15&count_private=true&layout=compact&langs_count=7&theme=react"/>
 
 ## Minhas experiências
