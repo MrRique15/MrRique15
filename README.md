@@ -23,5 +23,5 @@
   
 ## Trabalhos:
 <li><a href="https://discord.gg/8kdGq2mxsg" rel="nofollow">JH Store - FiveM</a><br></li>
-<li><a href="https://www.linkedin.com/company/ohfy/" rel="nofollow">Ohfy</a><br></li>
+<li><a href="https://www.linkedin.com/company/elint-tech/" rel="nofollow">Elint Tech</a><br></li>
 <li><a href="https://github.com/MrRique15/MrRique15/issues" rel="nofollow">Entre em contato!</a><br></li>
