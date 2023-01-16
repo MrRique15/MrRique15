@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Henrique Favaro 🖐️
 <div>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api?username=MrRique15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRique15&count_private=true&layout=compact&langs_count=7&theme=react"/>
+<img height="160cm" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MrRique15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="160cm" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MrRique15&count_private=true&layout=compact&langs_count=7&theme=react"/>
 </div>
 <b>Minhas experiências</b>
 <div style="display:inline_block"><br/>
