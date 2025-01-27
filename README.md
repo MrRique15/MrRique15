@@ -21,6 +21,7 @@
 <img align="center" alt="html5" href="https://discord.gg/8kdGq2mxsg" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 <img align="center" alt="html5" href="https://discord.gg/8kdGq2mxsg" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
-## Trabalhos:
+## URLs:
 <li><a href="https://br.linkedin.com/company/tractian" rel="nofollow">TRACTIAN</a><br></li>
 <li><a href="https://github.com/MrRique15/MrRique15/issues" rel="nofollow">Entre em contato!</a><br></li>
+<li><a href="https://online-text-editor-sigma.vercel.app" rel="nofollow">Online Text Editor</a><br></li>
